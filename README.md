@@ -23,6 +23,6 @@ Collection began 07/21.
 ## Planned Gunpla projects
 - RG 1/144 Unicorn
 - RG 1/144 Sazabi
-- Custom 1/144 Asmoday (White 
+- Custom 1/144 Asmoday 
 - Rebuild MG barbatos' inner-frame
 - Detail Hi-Nu
