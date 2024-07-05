@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    font-family: "Consolas";
+    background-color: #161616;
+}
+
+/* SIDEBAR CONTENT */
+#card{
+    position: relative;
+    inset: 0px;
+    width: 50rem;
+    height: 20rem;
+    margin: auto;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 5rem;
+    color: #d4bf86;
+    margin-bottom: 0;
+}
+
+h2{
+    font-weight: 100;
+    color: #d4bf86;
+}
+
+#display{
+    position: absolute;
+    left: 10rem;
+}
+
+li{
+
+    display: inline;
+
+}
+
+input{
+    width: 30rem;
+    height: 50rem;
+    object-fit: cover;
+}
